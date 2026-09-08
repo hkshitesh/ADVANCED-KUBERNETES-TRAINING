@@ -9,4 +9,5 @@ https://dc-lab.signin.aws.amazon.com/console
 ## EKS Cluster Connecting Commands
 
 aws eks --region us-east-1 describe-cluster --name hiteshnewCluster --query cluster.status
+
 aws eks --region us-east-1 update-kubeconfig --name hiteshnewCluster
