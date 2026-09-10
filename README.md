@@ -2,6 +2,10 @@
 
 https://github.com/hkshitesh/ADVANCED-LAB-EXERCISE-KUBERNETES
 
+## COURSE SLIDES (Google Drive Link)
+
+https://drive.google.com/drive/folders/1Gfoo2kQ3N3dtEzWtCGpECHnClsHSMdR0?usp=sharing
+
 ## Virtual Machine Sheet Link
 
 https://docs.google.com/spreadsheets/d/1Sz-0vXdj42LUURmis3OsUwsbiVcrCIiicJkSe4tUmQ4/edit?usp=sharing
