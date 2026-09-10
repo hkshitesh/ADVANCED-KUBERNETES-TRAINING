@@ -7,6 +7,6 @@ https://github.com/hkshitesh/ADVANCED-KUBERNETES-TRAINING-NEW
 https://drive.google.com/drive/folders/1Gfoo2kQ3N3dtEzWtCGpECHnClsHSMdR0?usp=sharing
 
 
-## FINAL FEEDBAK LINK
+## FINAL FEEDBACK LINK
 
 https://forms.gle/q5JqKkPoLHKwdzBh6
