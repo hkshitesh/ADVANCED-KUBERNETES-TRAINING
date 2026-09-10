@@ -6,16 +6,7 @@ https://github.com/hkshitesh/ADVANCED-KUBERNETES-TRAINING-NEW
 
 https://drive.google.com/drive/folders/1Gfoo2kQ3N3dtEzWtCGpECHnClsHSMdR0?usp=sharing
 
-## Virtual Machine Sheet Link
 
-https://docs.google.com/spreadsheets/d/1Sz-0vXdj42LUURmis3OsUwsbiVcrCIiicJkSe4tUmQ4/edit?usp=sharing
+## FINAL FEEDBAK LINK
 
-## AWS User
-
-https://dc-lab.signin.aws.amazon.com/console
-
-## EKS Cluster Connecting Commands
-
-aws eks --region us-east-1 describe-cluster --name hiteshnewCluster --query cluster.status
-
-aws eks --region us-east-1 update-kubeconfig --name hiteshnewCluster
+https://forms.gle/q5JqKkPoLHKwdzBh6
