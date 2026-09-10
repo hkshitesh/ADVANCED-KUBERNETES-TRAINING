@@ -1,6 +1,6 @@
 ## ADVANCED-LAB-EXERCISES
 
-https://github.com/hkshitesh/ADVANCED-LAB-EXERCISE-KUBERNETES
+https://github.com/hkshitesh/ADVANCED-KUBERNETES-TRAINING-NEW
 
 ## COURSE SLIDES (Google Drive Link)
 
